@@ -1,0 +1,43 @@
+{
+  "id": "db4f34aa-3103-4ac6-b494-581045a544bb",
+  "name": "BC25P",
+  "publisher": "YUN ZHU",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "e86e9234-8b95-459d-a9ba-4d901208ca38",
+      "name": "_Exclude_Microsoft Dynamics 365 - Smartlist",
+      "publisher": "Microsoft",
+      "version": "25.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "source": {
+    "repositoryUrl": "https://github.com/yzhums/Import-multiple-item-pictures-at-the-same-time-without-ZIP-file",
+    "commit": "0b5b061d409799e5280502593f23e72e388410da"
+  }
+}
